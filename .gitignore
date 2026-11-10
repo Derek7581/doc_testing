@@ -2,3 +2,6 @@
 build/
 __pycache__/
 *.pyc
+command-to-test
+commands-to-rebuild
+source/index-copy.rst

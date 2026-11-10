@@ -18,6 +18,8 @@ extensions = [
     "myst_parser",
 ]
 
+root_doc = 'index'
+
 source_suffix = {
     ".rst": "restructuredtext",
     ".md": "markdown",
